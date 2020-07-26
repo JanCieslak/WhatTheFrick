@@ -1,3 +1,5 @@
+const val DEFAULT_MEMORY = 30_000
+
 class WtfProgram {
     private val memory = ByteArray(DEFAULT_MEMORY)
     private var pointer = 0
