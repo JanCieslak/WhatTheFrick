@@ -1,2 +1,5 @@
 # WhatTheFrick
-My implementation of BrainFuck language https://pl.wikipedia.org/wiki/Brainfuck
+Brainfuck interpreter
+
+# What is BrainFuck
+https://pl.wikipedia.org/wiki/Brainfuck
